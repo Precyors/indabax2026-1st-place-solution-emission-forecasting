@@ -80,7 +80,7 @@ followed by clipping to valid ranges.
 
 # Feature Engineering
 
-The solution relies heavily on structured feature engineering.
+The solution relies heavily on structured feature engineering(52 new features were created)
 
 ## Temporal Features
 
