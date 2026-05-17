@@ -4,18 +4,6 @@ Predicting atmospheric emission levels using spatiotemporal feature engineering,
 
 ---
 
-## Competition
-
-IndabaX Nigeria 2026 Hackathon
-
-Final Results:
-
-* 🥇 **1st Place — Private Leaderboard**
-* Public Leaderboard Score: **46.85122011**
-* Private Leaderboard Score: **55.87334576**
-
----
-
 ## Overview
 
 This repository contains my solution for the IndabaX Nigeria 2026 Emission Forecasting competition.
@@ -226,6 +214,4 @@ This made seasonal calibration and region-aware feature engineering critical to 
 
 ---
 
-# Author
 
-Developed by Precious Odutola for the IndabaX Nigeria 2026 Emission Forecasting Competition.
